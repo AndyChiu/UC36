@@ -8,7 +8,7 @@ MCU的部分，建議使用RP2040晶片的MCU。
 鍵盤清單(依照開發順序排列):
 -------------------------
 
-* [W36](/W36/)
+* <a href="/W36/" target="_blank">W36</a>
   
   首次嘗試將按鍵減少到36鍵，使用[Willow配列](https://github.com/hanachi-ap/willow64-doc)方式，正式的學習36鍵的鍵盤操作。
 
