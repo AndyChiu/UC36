@@ -12,7 +12,7 @@ MCU的部分，建議使用RP2040晶片的MCU。
 
 * [W36](/W36/)
   
-  首次嘗試將按鍵減少到36鍵，使用[Willow配列](https://github.com/hanachi-ap/willow64-doc)方式，正式的學習36鍵的鍵盤操作。
+  首次嘗試將按鍵減少到36鍵，使用[Willow配列](https://github.com/hanachi-ap/willow64-doc)方式，正式的學習36鍵的鍵盤操作。窄間距配置。
 
   ![36鍵的小Willow鍵盤](https://pbs.twimg.com/media/FsMhAn-WIAIp3Ih?format=jpg&name=360x360)
   
@@ -20,7 +20,7 @@ MCU的部分，建議使用RP2040晶片的MCU。
 
 * [ESR36](/ESR36/)
 
-  嘗試將[Esrille NISSE鍵盤](https://www.esrille.com/keyboard/layouts.en-us.html)的layout拿來測試，發現打起來也沒有太多不適，拇指更外擴，比較符合我的拇指形狀。
+  嘗試將[Esrille NISSE鍵盤](https://www.esrille.com/keyboard/layouts.en-us.html)的layout拿來測試，發現打起來也沒有太多不適，拇指更外擴，比較符合我的拇指形狀。窄間距配置。
   
   ![小Esrille NISSE鍵盤](https://pbs.twimg.com/media/Ft5FvEGXwAABVpD?format=jpg&name=360x360)
 
@@ -36,7 +36,7 @@ MCU的部分，建議使用RP2040晶片的MCU。
 
 * [UC36Wing](/UC36Wing/)
 
-  由於Barlette36的設計，還是以少見的窄間距作為設計方針，後來為了嘗試使用一般間距，用來搭配市售的鍵帽大小，又設計了另一把鍵盤，並嘗試將M字板改成L字版，調整手指張開角度與鍵帽水平角度，另外小指處的高度也進行了調整。
+  由於Barlette36的設計，還是以少見的窄間距作為設計方針，後來為了嘗試使用一般間距，用來搭配市售的鍵帽大小，又設計了另一把鍵盤，並嘗試將M字板改成L字版，調整手指張開角度與鍵帽水平角度，另外小指處的高度也進行了調整。一般間距配置。
   
   ![UC36 Wing鍵盤](https://pbs.twimg.com/media/F8YHPkmaYAA_WtL?format=jpg&name=360x360)
 
