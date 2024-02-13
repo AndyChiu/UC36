@@ -18,7 +18,7 @@ MCU的部分，建議使用RP2040晶片的MCU。
 
 * [ESR36](/ESR36/)
 
-  嘗試將[Esrille NISSE鍵盤](https://www.esrille.com/keyboard/layouts.en-us.html)的layout放到這鍵盤進行測試。
+  嘗試將[Esrille NISSE鍵盤](https://www.esrille.com/keyboard/layouts.en-us.html)的layout拿來測試，發現打起來也沒有太多不適，拇指更外擴，比較符合我的拇指形狀。
   
   ![小Esrille NISSE鍵盤](https://pbs.twimg.com/media/Ft5FvEGXwAABVpD?format=jpg&name=360x360)
 
@@ -42,7 +42,7 @@ MCU的部分，建議使用RP2040晶片的MCU。
 
 * [W36A](/W36A/)
 
-  此為W36的變體，將鍵盤由分離式改成單一鍵盤，最早設計好後，由於3D列印機沒辦法印太大的檔案，所以就沒印出來測試，後來送至[JLCPCB的3D列印服務](https://jlcpcb.com/?from=AndyChiu)進行列印，順便測試了他們的透明材質，視覺衝擊鰻強烈的。
+  此為W36的變體，將鍵盤由分離式改成單一鍵盤，最早設計好後，由於3D列印機沒辦法印太大的檔案，所以就沒印出來測試，後來送至[JLCPCB的3D列印服務](https://jlcpcb.com/?from=AndyChiu)進行列印，順便測試了他們的透明材質，視覺衝擊蠻強烈的。
   
   ![非分離式的W36A鍵盤](https://pbs.twimg.com/media/GAJpOeQacAAkW1l?format=jpg&name=360x360)
   
